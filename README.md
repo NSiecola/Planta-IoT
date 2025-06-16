@@ -45,7 +45,9 @@ O sistema permite acompanhar a umidade em tempo real pelo celular, receber alert
 ## Créditos
 
 Desenvolvido por: Luiza de Martha e Nicholas Siécola
+
 Disciplina: Conceitos e Tecnologias para Dispositivos Conectados (C115)
+
 Professor: Samuel Baraldi Mafra
 
 ---
