@@ -17,7 +17,7 @@ BlynkTimer timer;
 
 // Função para ler o sensor
 void lerSensor() {
-  // Calibragem do seu sensor
+
   int valorMaximo = 1024; // Sensor no ar
   int valorMinimo = 560;  // Sensor na água
 
