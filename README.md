@@ -46,7 +46,7 @@ Quando o sensor está em um solo com menos umidade, o aplicativo reflete esse es
 
 | Projeto Físico | Painel no App Blynk |
 | :---: | :---: |
-| ![Vaso mais seco](images/conexao_vaso_mais_seco.jpg) | ![App com medida média](images/app_medida_media.jpeg) |
+| ![Vaso mais seco](images/conexao_vaso_mais_seco.jpeg) | ![App com medida média](images/app_medida_media.jpeg) |
 | *Sensor no vaso com terra menos úmida. O LED de status na protoboard está ligado.* | *Aplicativo indicando umidade em nível médio e o botão de controle do LED na posição "ON".* |
 
 <br>
@@ -57,7 +57,7 @@ Ao regar a planta ou mover o sensor para um solo saturado de água, o aplicativo
 
 | Projeto Físico | Painel no App Blynk |
 | :---: | :---: |
-| ![Vaso úmido](images/conexao_vaso_umido.jpg) | ![App com medida máxima](images/app_medida_max.jpeg) |
+| ![Vaso úmido](images/conexao_vaso_umido.jpeg) | ![App com medida máxima](images/app_medida_max.jpeg) |
 | *Sensor no vaso com terra bem úmida. Note o LED verde no módulo do sensor aceso intensamente.* | *Aplicativo indicando umidade máxima e o botão de controle do LED na posição "OFF".* |
 
 
